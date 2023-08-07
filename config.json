@@ -1,0 +1,5 @@
+{
+    "local_port": 53,
+    "upstream_port": 53,
+    "timeout": 5
+}
